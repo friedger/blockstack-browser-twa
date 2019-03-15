@@ -2,4 +2,6 @@
 
 Blockstack Browser for Android is a wrapper for browser.blockstack.org within a trusted web activity.
 
+![example-twa](promo/example-twa.gif)
+
 
